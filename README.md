@@ -6,4 +6,4 @@
   ##thelink[thunkable](https://x.thunkable.com/copy/7667326649cff7b1f5b88736486eca1c) this is a basic project that i made it's about a timer that you put a specific number of minutes and it will count down the number of seconds.
   
 ###thelink[google slides](https://docs.google.com/presentation/d/1P06h4DQTIR5A0wr_jDX-UJ-pYgs7l_8gDDuyJ1GzcE8/edit?usp=sharing) those slides that i made to introduce my summer plans .
-####thelink[google sheets](https://docs.google.com/spreadsheets/d/1mCJJsJdPxFjsr7V8GQQI7GBzgCCyL5W9o18VyBtPskQ/edit?usp=sharing). this is a google spreadsheet i made because i am rating myself in every section of computing from 1-5.
+####thelink[google sheets](https://docs.google.com/spreadsheets/d/1mCJJsJdPxFjsr7V8GQQI7GBzgCCyL5W9o18VyBtPskQ/edit?usp=sharing). this is a google spreadsheet i made because i am rating myself and my friends in every section of computing from 1-5
