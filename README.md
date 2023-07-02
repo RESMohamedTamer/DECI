@@ -12,6 +12,6 @@
 
 I talked about in html file what i have learned and i liked about programming etc ... and i talked what i thought it was diffuclt to learn and i was learning and at the same time i was being entertained.
 
-#####thelink[html](https://pjpccttkph.prod.udacity-student-workspaces.com/api/file_download/workspace/DECI_learnings.html
+#####thelink[html](https://pjpccttkph.prod.udacity-student-workspaces.com/api/file_download/home/workspace/DECI_learnings.html
 ) this is where I talked about in html file what i have learned and i liked about programming etc ... and i talked what i thought it was diffuclt to learn and i was learning and at the same time i was being entertained.
 ######thelink[google drive](https://drive.google.com/drive/folders/1OXGEZ0zK0PU_ldS-RRVuWha_J9mb2nFj?usp=sharing)
